@@ -7,7 +7,7 @@ Projects done as part of the [Data Engineering Nanodegree program](https://www.u
 ## Project 1: [Data Modeling with PostgreSQL](https://github.com/ramapinnimty/Udacity-DataEngineering-Nanodegree/tree/main/01-Data%20Modeling/Project_01-Relational%20Databases-Data%20Modeling%20with%20PostgreSQL)
 Developed a SQL database using PostgreSQL to model user activity data for a music streaming app.
 * Created a relational database using PostgreSQL locally.
-* Developed a Star Schema database using optimized definitions of Fact and Dimension tables. Normalization of tables.
+* Developed a Star Schema database using optimized definitions of Fact and Dimension tables and also performed Normalization on tables.
 * Built out an ETL pipeline to optimize queries in order to understand what songs users are listening to.
 
 *Tech stack: - Python, PostgreSQL, Star Schema, ETL pipelines, Normalization*
