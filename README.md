@@ -1,6 +1,8 @@
 # Udacity Data Engineering Nanodegree
 Projects done as part of the [Data Engineering Nanodegree program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) offered by Udacity.
 
+<div align="center"><img src="sparkify-logo.png"/></div>
+<br>
 
 ## Project 1: [Data Modeling with PostgreSQL](https://github.com/ramapinnimty/Udacity-DataEngineering-Nanodegree/tree/main/01-Data%20Modeling/Project_01-Relational%20Databases-Data%20Modeling%20with%20PostgreSQL)
 Developed a SQL database using PostgreSQL to model user activity data for a music streaming app.
